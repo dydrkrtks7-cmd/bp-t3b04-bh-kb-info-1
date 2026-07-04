@@ -7,10 +7,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-User-agent: Yeti
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-Sitemap: https://t3b04-bh-kb-info-1.pages.dev/sitemap.xml
+Sitemap: https://mapo-song-room.namanavi.com/sitemap.xml
