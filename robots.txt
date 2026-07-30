@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yeongdeungpo-hyperpublic-note.aga-uhake.space/sitemap.xml
-Sitemap: https://yeongdeungpo-hyperpublic-note.aga-uhake.space/sitemap-pages.xml
+Sitemap: https://mapo-song-room.namanavi.com/sitemap.xml
+Sitemap: https://mapo-song-room.namanavi.com/sitemap-pages.xml
