@@ -1,10 +1,5 @@
 User-agent: *
 Allow: /
 
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-Sitemap: https://mapo-song-room.namanavi.com/sitemap.xml
+Sitemap: https://yeongdeungpo-hyperpublic-note.aga-uhake.space/sitemap.xml
+Sitemap: https://yeongdeungpo-hyperpublic-note.aga-uhake.space/sitemap-pages.xml
